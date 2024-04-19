@@ -1,0 +1,186 @@
+{
+  "jobs": [
+    {
+      "id": "4",
+      "title": "Yoga Expert",
+      "type": "Part-Time",
+      "location": "New Delhi, India",
+      "description": "Seeking a passionate and experienced Yoga Instructor to join our team in New Delhi. Candidates should have a minimum of 200-hour yoga teacher training certification and a deep understanding of yoga philosophy and anatomy.",
+      "salary": "20K - 30K",
+      "company": {
+        "name": "Harmony Wellness Center",
+        "description": "Harmony Wellness Center is dedicated to promoting health and well-being through yoga, meditation, and holistic therapies.",
+        "contactEmail": "info@harmonywellness.in",
+        "contactPhone": "+91 98765 43211"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Certified Yoga Teacher",
+      "type": "Contract",
+      "location": "Mumbai, India",
+      "description": "Mindful Movement Studio is hiring a Certified Yoga Teacher to lead dynamic and inspiring yoga classes. Ideal candidates will have experience teaching vinyasa, hatha, and restorative yoga.",
+      "salary": "30K - 40K",
+      "company": {
+        "name": "Mindful Movement Studio",
+        "description": "Mindful Movement Studio offers a range of yoga classes and workshops aimed at promoting physical and mental well-being.",
+        "contactEmail": "info@mindfulmovement.in",
+        "contactPhone": "+91 98765 43212"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Yoga and Meditation Instructor",
+      "type": "Full-Time",
+      "location": "Rishikesh, India",
+      "description": "Join our team at Tranquil Retreats in the yoga capital of the world, Rishikesh. We are seeking a dedicated Yoga and Meditation Instructor to lead daily classes and retreats in a serene and nurturing environment.",
+      "salary": "40K - 50K",
+      "company": {
+        "name": "Tranquil Retreats",
+        "description": "Tranquil Retreats offers yoga and meditation retreats in beautiful natural settings, providing guests with an opportunity to reconnect with themselves and nature.",
+        "contactEmail": "info@tranquilretreats.in",
+        "contactPhone": "+91 98765 43213"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Senior Yoga Teacher",
+      "type": "Full-Time",
+      "location": "Goa, India",
+      "description": "Ocean Breath Yoga is seeking a Senior Yoga Teacher to join our team in the vibrant coastal town of Goa. The ideal candidate will have extensive teaching experience and a passion for sharing the transformative power of yoga.",
+      "salary": "50K - 60K",
+      "company": {
+        "name": "Ocean Breath Yoga",
+        "description": "Ocean Breath Yoga offers yoga classes, workshops, and retreats in stunning beachside locations, providing students with a holistic approach to health and well-being.",
+        "contactEmail": "info@oceanbreathyoga.in",
+        "contactPhone": "+91 98765 43214"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Yoga Instructor",
+      "type": "Full-Time",
+      "location": "Chennai, India",
+      "description": "Join our team at Inner Peace Yoga Studio in Chennai as a Yoga Instructor. We are seeking an enthusiastic and dedicated individual to teach a variety of yoga classes to students of all levels.",
+      "salary": "60K - 70K",
+      "company": {
+        "name": "Inner Peace Yoga Studio",
+        "description": "Inner Peace Yoga Studio offers a welcoming and inclusive space for students to explore the transformative practice of yoga and meditation.",
+        "contactEmail": "info@innerpeacestudio.in",
+        "contactPhone": "+91 98765 43215"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Yoga Teacher",
+      "type": "Part-Time",
+      "location": "Jaipur, India",
+      "description": "Lotus Blossom Yoga is hiring a part-time Yoga Teacher to join our team in Jaipur. Candidates should have a strong foundation in yoga philosophy and anatomy, with experience teaching both group and private classes.",
+      "salary": "30K - 40K",
+      "company": {
+        "name": "Lotus Blossom Yoga",
+        "description": "Lotus Blossom Yoga offers a range of yoga classes and workshops designed to inspire and empower students on their journey to health and happiness.",
+        "contactEmail": "info@lotusblossomyoga.in",
+        "contactPhone": "+91 98765 43216"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Yoga Instructor",
+      "type": "Full-Time",
+      "location": "Hyderabad, India",
+      "description": "Join our team at Blissful Yoga Center in Hyderabad as a Yoga Instructor. We are seeking an experienced and compassionate individual to lead dynamic and transformative yoga classes.",
+      "salary": "40K - 50K",
+      "company": {
+        "name": "Blissful Yoga Center",
+        "description": "Blissful Yoga Center offers a range of yoga classes and workshops aimed at promoting physical, mental, and emotional well-being.",
+        "contactEmail": "info@blissfulyoga.in",
+        "contactPhone": "+91 98765 43217"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Yoga Teacher",
+      "type": "Full-Time",
+      "location": "Pune, India",
+      "description": "Lotus Life Yoga is seeking a passionate and dedicated Yoga Teacher to join our team in Pune. Candidates should have a strong foundation in yoga philosophy and anatomy, with experience teaching a variety of yoga styles.",
+      "salary": "50K - 60K",
+      "company": {
+        "name": "Lotus Life Yoga",
+        "description": "Lotus Life Yoga offers a holistic approach to health and wellness, combining yoga, meditation, and mindfulness practices to empower individuals to live their best lives.",
+        "contactEmail": "info@lotuslifeyoga.in",
+        "contactPhone": "+91 98765 43218"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Yoga Instructor",
+      "type": "Part-Time",
+      "location": "Kolkata, India",
+      "description": "Join our team at Serene Spirit Yoga Studio in Kolkata as a part-time Yoga Instructor. We are seeking an enthusiastic and compassionate individual to teach a variety of yoga classes to students of all levels.",
+      "salary": "30K - 40K",
+      "company": {
+        "name": "Serene Spirit Yoga Studio",
+        "description": "Serene Spirit Yoga Studio offers a welcoming and inclusive space for students to explore the transformative practice of yoga and meditation.",
+        "contactEmail": "info@serenespirit.in",
+        "contactPhone": "+91 98765 43219"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Senior Yoga Instructor",
+      "type": "Full-Time",
+      "location": "Varanasi, India",
+      "description": "Zenith Yoga Academy is seeking a Senior Yoga Instructor to lead our team in Varanasi. The ideal candidate will have extensive teaching experience and a deep understanding of yoga philosophy and anatomy.",
+      "salary": "80K - 90K",
+      "company": {
+        "name": "Zenith Yoga Academy",
+        "description": "Zenith Yoga Academy is committed to providing high-quality yoga education and training to students from around the world.",
+        "contactEmail": "info@zenithyoga.in",
+        "contactPhone": "+91 98765 43220"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Yoga Teacher",
+      "type": "Full-Time",
+      "location": "Ahmedabad, India",
+      "description": "Join our team at Radiant Yoga Studio in Ahmedabad as a Yoga Teacher. We are seeking an experienced and compassionate individual to lead daily yoga classes and workshops.",
+      "salary": "70K - 80K",
+      "company": {
+        "name": "Radiant Yoga Studio",
+        "description": "Radiant Yoga Studio offers a range of yoga classes and workshops designed to inspire and empower students on their journey to health and happiness.",
+        "contactEmail": "info@radiantyoga.in",
+        "contactPhone": "+91 98765 43221"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Yoga Instructor",
+      "type": "Part-Time",
+      "location": "Chandigarh, India",
+      "description": "Join our team at Harmony Yoga Center in Chandigarh as a part-time Yoga Instructor. We are seeking an enthusiastic and dedicated individual to teach a variety of yoga classes to students of all levels.",
+      "salary": "20K - 30K",
+      "company": {
+        "name": "Harmony Yoga Center",
+        "description": "Harmony Yoga Center offers a supportive and nurturing environment for students to explore the transformative practice of yoga.",
+        "contactEmail": "info@harmonyyoga.in",
+        "contactPhone": "+91 98765 43222"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Yoga Teacher",
+      "type": "Full-Time",
+      "location": "Lucknow, India",
+      "description": "Join our team at Bliss Yoga Retreat in Lucknow as a Yoga Teacher. We are seeking an experienced and compassionate individual to lead daily yoga classes and retreats.",
+      "salary": "90K - 100K",
+      "company": {
+        "name": "Bliss Yoga Retreat",
+        "description": "Bliss Yoga Retreat offers transformative yoga retreats in peaceful natural settings, providing guests with an opportunity to reconnect with themselves and nature.",
+        "contactEmail": "info@blissyogaretreat.in",
+        "contactPhone": "+91 98765 43223"
+      }
+    }
+  ]
+}
