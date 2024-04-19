@@ -8,7 +8,7 @@ const JobListings = ({ isHome = false }) => {
 
   useEffect(() => {
     const fetchJobs = async () => {
-      const apiUrl = isHome ? '/api/jobs?_limit=6' : '/api/jobs';
+      const apiUrl = isHome ? 'https://my-json-server.typicode.com/imshivamgupta/json-server/jobs?_limit=6' : 'https://my-json-server.typicode.com/imshivamgupta/json-server/jobs?_limit=6';
       try {
         const res = await fetch(apiUrl);
         const data = await res.json();
