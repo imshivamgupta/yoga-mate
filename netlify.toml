@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api"
+  to = "https://my-json-server.typicode.com/imshivamgupta/json-server/"
+  status = 200
